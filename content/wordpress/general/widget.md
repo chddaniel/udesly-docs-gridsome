@@ -14,7 +14,7 @@ A WordPress Widget is a small block that performs a specific function. Note that
 
 This functionality is strictly usable outside of sidebars, and if you don't want to manage widgets from WordPress Dashboard.
 
-Just add div with the attribute:
+Just add a div with the attributes:
 
 <DynamicAttribute name="widget" value="widget class name" />
 
